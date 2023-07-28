@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93D3AC3D-30DD-4E6C-BC47-323246AB8C85"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5067F634-9FC6-4472-986A-9C63DD94E315"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "contextMenuInteraction(_:configurationForMenuAtLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C5055EF-941B-4D56-B337-D4215DF4ABF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "contextMenuInteraction(_:configurationForMenuAtLocation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C5055EF-941B-4D56-B337-D4215DF4ABF3 - ac0c157d593e29f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.UIMenuElement&gt;) -&gt; Swift.Optional&lt;__C.UIMenu&gt; in ZOELOWPEIEE_A4_FinalApplication.ReportsViewController.contextMenuInteraction(_: __C.UIContextMenuInteraction, configurationForMenuAtLocation: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "0C5055EF-941B-4D56-B337-D4215DF4ABF3 - d23053c7d9e8f6aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAction) -&gt; () in closure #1 (Swift.Array&lt;__C.UIMenuElement&gt;) -&gt; Swift.Optional&lt;__C.UIMenu&gt; in ZOELOWPEIEE_A4_FinalApplication.ReportsViewController.contextMenuInteraction(_: __C.UIContextMenuInteraction, configurationForMenuAtLocation: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "66">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D087B51-D53F-4F85-9A7F-A75246359D7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "contextMenuInteraction(_:configurationForMenuAtLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58E89B4F-C3E3-4230-BAA9-4F81570C80D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56FB65D6-C7A0-4495-B653-E72AB508DE16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68E7AA2C-A6D4-48FD-80E6-E12FAAB11A2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "contextMenuInteraction(_:configurationForMenuAtLocation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68E7AA2C-A6D4-48FD-80E6-E12FAAB11A2D - 46b9f20cfa70fa17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ZOELOWPEIEE_A4_FinalApplication.ReportsViewController.contextMenuInteraction(_: __C.UIContextMenuInteraction, configurationForMenuAtLocation: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "68E7AA2C-A6D4-48FD-80E6-E12FAAB11A2D - ac0c157d593e3682"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.UIMenuElement&gt;) -&gt; Swift.Optional&lt;__C.UIMenu&gt; in ZOELOWPEIEE_A4_FinalApplication.ReportsViewController.contextMenuInteraction(_: __C.UIContextMenuInteraction, configurationForMenuAtLocation: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FDB2B05-7C27-4810-A9E8-B419D3CEBD2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "contextMenuInteraction(_:configurationForMenuAtLocation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FDB2B05-7C27-4810-A9E8-B419D3CEBD2B - ac0c157d593e3682"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.UIMenuElement&gt;) -&gt; Swift.Optional&lt;__C.UIMenu&gt; in ZOELOWPEIEE_A4_FinalApplication.ReportsViewController.contextMenuInteraction(_: __C.UIContextMenuInteraction, configurationForMenuAtLocation: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "2FDB2B05-7C27-4810-A9E8-B419D3CEBD2B - b3b1f1c1bba1476d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAction) -&gt; () in closure #1 (Swift.Array&lt;__C.UIMenuElement&gt;) -&gt; Swift.Optional&lt;__C.UIMenu&gt; in ZOELOWPEIEE_A4_FinalApplication.ReportsViewController.contextMenuInteraction(_: __C.UIContextMenuInteraction, configurationForMenuAtLocation: __C.CGPoint) -&gt; Swift.Optional&lt;__C.UIContextMenuConfiguration&gt;"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03268373-84BD-4048-9E19-25EB94688A23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/NotificationsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "onAllTodosChange(change:todos:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB70F97C-8A15-4326-B66F-FF9D56534E49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/ViewModels/NewReminderViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "onAllTodosChange(change:todos:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA6D1934-4357-410D-9E28-FF9D7A3A64D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/ViewModels/NewReminderViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "onAllTodosChange(change:todos:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B82025CB-B6B3-4FBD-9001-6B93618163DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Controllers/ReportsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B73DFF44-4F76-458A-94A9-D85E5087C764"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "FirebaseController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E96A4CEC-9AC7-4B05-8098-180B70381F24"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "parseChannelsSnapshot(snapshot:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B4D66D8-E626-453A-89A6-A0871B27C27E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZOELOWPEIEE-A4-FinalApplication/Database/FirebaseController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "parseChannelsSnapshot(snapshot:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B4D66D8-E626-453A-89A6-A0871B27C27E - fa4d172254e2afca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDocumentChange) -&gt; () in ZOELOWPEIEE_A4_FinalApplication.FirebaseController.parseChannelsSnapshot(snapshot: __C.FIRQuerySnapshot) -&gt; ()"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "2731">
+               </Location>
+               <Location
+                  uuid = "5B4D66D8-E626-453A-89A6-A0871B27C27E - 88de55034ac0f7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ZOELOWPEIEE_A4_FinalApplication.DatabaseListener) -&gt; () in closure #1 (__C.FIRDocumentChange) -&gt; () in ZOELOWPEIEE_A4_FinalApplication.FirebaseController.parseChannelsSnapshot(snapshot: __C.FIRQuerySnapshot) -&gt; ()"
+                  moduleName = "ZOELOWPEIEE-A4-FinalApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sooyewlim/Downloads/ZOELOWPEIEE-A4-FinalApplication/ZOELOWPEIEE-A4-FinalApplication/Database/FirebaseController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "85">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
